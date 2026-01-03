@@ -1,0 +1,240 @@
+DSA ROADMAP FOR INTERNSHIPS (START → INTERVIEW READY)
+
+----------------------------------------------------------------
+STAGE 0 : PREREQUISITES (1–2 weeks, parallel with Stage-1)
+----------------------------------------------------------------
+Goal: Be comfortable coding fast and clean.
+
+- Language mastery (C++ / Java / Python – choose ONE)
+- Time complexity basics (O(1), O(n), O(n log n), O(n^2))
+- Space complexity basics
+- Debugging skills
+- Using STL / libraries confidently
+
+If this is weak, everything else becomes slow.
+
+----------------------------------------------------------------
+STAGE 1 : FOUNDATIONS (MOST IMPORTANT STAGE)
+Duration: 4–6 weeks
+Weight in interviews: ~50%
+----------------------------------------------------------------
+
+1. ARRAYS
+   - Traversal
+   - Min / max
+   - Rotation
+   - Prefix sum
+   - Difference array
+   - Kadane’s algorithm
+   - Merge intervals
+   - Stock buy & sell
+
+2. STRINGS
+   - Frequency counting
+   - Palindrome check
+   - Reverse words
+   - Anagrams
+   - Substring problems
+   - Character hashing (26 / 256)
+
+3. TWO POINTERS
+   - Start + end pointers
+   - Fast & slow pointers
+   - Remove duplicates
+   - Pair sum
+   - Palindrome with pointers
+
+4. SLIDING WINDOW
+   - Fixed window
+   - Variable window
+   - Longest substring without repeating
+   - Longest substring with k distinct
+   - Minimum window substring
+
+5. HASHING (MAP / SET)
+   - Frequency maps
+   - Two sum
+   - Subarray sum equals k
+   - Longest subarray with sum k
+   - Group anagrams
+   - Prefix sum + hashmap
+
+6. BINARY SEARCH
+   - Classic binary search
+   - First / last occurrence
+   - Floor / ceil
+   - Rotated sorted array
+   - Binary search on answer
+     (Koko, ship packages, split array)
+
+7. SORTING
+   - Merge sort
+   - Quick sort
+   - Sorting + greedy patterns
+   - Sorting + two pointers
+
+8. RECURSION (BASICS ONLY)
+   - Base case & recursion tree
+   - Factorial, Fibonacci
+   - Simple subset generation
+   - Simple permutations
+
+TARGET AFTER STAGE 1:
+- 150–200 problems
+- Easy + Medium comfort
+- Able to optimize brute force
+
+----------------------------------------------------------------
+STAGE 2 : CORE DATA STRUCTURES
+Duration: 6–8 weeks
+Weight in interviews: ~35%
+----------------------------------------------------------------
+
+1. LINKED LIST
+   - Reverse list
+   - Middle of list
+   - Cycle detection
+   - Merge lists
+   - Remove nth node
+
+2. STACK
+   - Next greater element
+   - Monotonic stack
+   - Min stack
+   - Valid parentheses
+   - Histogram basics
+
+3. QUEUE / DEQUE
+   - Sliding window maximum
+   - Queue using stack
+
+4. TREES (VERY IMPORTANT)
+   - Tree traversals (inorder, preorder, postorder)
+   - Level order traversal
+   - Height / depth
+   - Diameter
+   - Balanced tree
+   - Lowest Common Ancestor
+   - Path sum problems
+
+5. BINARY SEARCH TREE
+   - Validation
+   - Insert / delete
+   - Kth smallest / largest
+
+6. HEAPS (PRIORITY QUEUE)
+   - Min heap / max heap
+   - K largest / smallest
+   - Merge k sorted lists
+   - Median in stream
+
+7. TRIE (LIMITED)
+   - Insert & search
+   - Prefix problems
+   - Word dictionary
+
+8. GRAPHS (EXTREMELY IMPORTANT)
+   - Adjacency list
+   - BFS / DFS
+   - Number of islands
+   - Cycle detection
+   - Bipartite graph
+   - Topological sort
+   - Shortest path (BFS, Dijkstra)
+   - Union Find (DSU)
+   - Minimum spanning tree (Kruskal)
+
+TARGET AFTER STAGE 2:
+- 350–450 total problems
+- Confident with trees & graphs
+- Ready for most internship interviews
+
+----------------------------------------------------------------
+STAGE 3 : DYNAMIC PROGRAMMING (SELECTIVE BUT IMPORTANT)
+Duration: 4–6 weeks
+Weight in interviews: ~15%
+----------------------------------------------------------------
+
+1. DP BASICS
+   - Memoization vs tabulation
+   - Identify overlapping subproblems
+
+2. 1D DP
+   - Fibonacci
+   - Climbing stairs
+   - House robber
+
+3. DP ON SUBSEQUENCES
+   - Longest Increasing Subsequence
+   - Longest Common Subsequence
+   - Edit distance
+
+4. KNAPSACK PATTERNS
+   - 0/1 knapsack
+   - Unbounded knapsack
+   - Coin change (ways + min coins)
+
+5. DP ON GRIDS
+   - Unique paths
+   - Minimum path sum
+   - Grid with obstacles
+
+6. PARTITION DP (BASICS)
+   - Palindrome partitioning
+   - Matrix chain multiplication
+
+NOTE:
+You do NOT need ultra-hard DP for internships.
+
+TARGET AFTER STAGE 3:
+- 450–600 problems
+- Comfortable with medium DP
+- FAANG-ready for intern roles
+
+----------------------------------------------------------------
+STAGE 4 : OPTIONAL / LOW PRIORITY
+----------------------------------------------------------------
+
+- Segment Tree
+- Fenwick Tree
+- Advanced graph DP
+- Network flow
+- Geometry
+
+These are NOT required for most internships.
+
+----------------------------------------------------------------
+INTERVIEW READINESS CHECKLIST
+----------------------------------------------------------------
+
+You are internship-ready if:
+- You solve medium problems in 30–40 minutes
+- You can explain approach clearly
+- You know time & space complexity
+- You don’t panic on unseen problems
+- You can code without syntax struggle
+
+----------------------------------------------------------------
+RECOMMENDED PRACTICE SOURCES
+----------------------------------------------------------------
+
+- Striver A2Z DSA Sheet
+- NeetCode 150 / 300
+- LeetCode Mediums (pattern-based)
+- Weekly contests (optional)
+
+Avoid random LeetCode grinding.
+
+----------------------------------------------------------------
+FINAL TRUTH
+----------------------------------------------------------------
+
+Internship DSA preparation is NOT about:
+- Solving 1000+ random problems
+- Doing extremely hard CP problems
+
+It IS about:
+- Mastering patterns
+- Consistency
+- Clear thinking
+- Clean implementation
